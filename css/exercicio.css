@@ -1,0 +1,25 @@
+<style>
+@import url(https://fonts.google.com/share?selection.family=Rubik+Scribble);
+
+
+body{
+    background-color: cornflowerblue;
+}
+h1{
+    text-shadow: 5px 5px 5px coral;
+}
+p{
+    line-height: 200%;
+    font-family: "Playfair Displair", serfit;
+}
+h2.class2{
+    color: ivory;
+}
+p.justify{
+    font-size: 20px;
+    text-align: justify;
+}
+span{
+    color: blueviolet;
+    font-style: italic;
+}

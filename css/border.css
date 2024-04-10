@@ -1,0 +1,10 @@
+h1{
+    border-top: 5px dashed cornflowerblue;
+    border-right: 10px dotted cyan;
+    border-bottom:20px solid cornsilk ;
+    border-left:5px double cadetblue ;
+}
+h2{
+    border:5px solid chartreuse
+    
+}

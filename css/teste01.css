@@ -1,0 +1,21 @@
+@import url(https://fonts.google.com/share?selection.family=Galada|Tac+One);
+body{
+    background-color:burlywood;
+}
+h1{
+    color: #FF4858;
+    background-color: #72F2EB;
+}
+h2{
+    color: #FF4858;
+    background-color:#72F2EB;
+}
+p{
+    color: #1B7F79;
+    font-family: "Tac One", sans-serif;
+    font-size: 20px;
+    text-align: justify;
+}
+
+
+    
